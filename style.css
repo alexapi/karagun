@@ -1469,5 +1469,10 @@ figure {
 .icon-map-marker:before {
     content: "\eaa0";
 }
-
+.icon-youtube:before {
+    content: "\ea81";
+}
+.icon-globe2:before {
+    content: "\e9b0";
+}
 
